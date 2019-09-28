@@ -1,2 +1,2 @@
 # dark
-Dark theme button
+Dark theme button with no JavaScript
